@@ -6,7 +6,7 @@
 
 - BE: Mongoose API, NodeJS, MongoDB
 - FE: ReactJS, Redux, Ant Design
-- Voice: Alan AI
+- Voice: Alan AI (lost script in Alan AI)
 
 **Team members**: 3
 - Bùi Thanh Ngọc - 18110034
