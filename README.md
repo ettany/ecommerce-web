@@ -31,7 +31,7 @@ Seller: seller@example.com - pwd: 123456<br />
 - Clone project
 
 ```
-git clone https://github.com/ThangLe2209/kltn.git
+git clone https://github.com/ettany/ecommerce-web.git
 ```
 
 # BE
